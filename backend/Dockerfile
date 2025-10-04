@@ -9,15 +9,15 @@ RUN apt-get update && \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first for better caching
-COPY requirements.txt .
+COPY backend/requirements.txt .
 
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code
-COPY app.py .
+COPY backend/app.py .
 
-# Copy Data directory with LLAB content
+# Copy Data directory with LLAB content (from root of repo)
 COPY Data /app/Data
 
 # Create non-root user for security
