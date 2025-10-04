@@ -1,0 +1,64 @@
+name: Deploy Backend to Cloud Run
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'backend/**'
+      - 'Data/**'
+      - '.github/workflows/deploy-backend.yml'
+  workflow_dispatch:
+
+env:
+  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  REGION: us-central1
+  SERVICE_NAME: lani-bot-api
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.WIF_PROVIDER }}
+          service_account: ${{ secrets.WIF_SERVICE_ACCOUNT }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Build and push container
+        run: |
+          gcloud builds submit \
+            --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA \
+            --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:latest \
+            ./backend
+
+      - name: Deploy to Cloud Run
+        run: |
+          gcloud run deploy $SERVICE_NAME \
+            --image gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA \
+            --region $REGION \
+            --platform managed \
+            --allow-unauthenticated \
+            --port 8080 \
+            --min-instances 0 \
+            --max-instances 10 \
+            --cpu 1 \
+            --memory 512Mi \
+            --timeout 60s \
+            --concurrency 80 \
+            --set-env-vars "ALLOWED_ORIGINS=${{ secrets.ALLOWED_ORIGINS }}" \
+            --set-secrets "GROQ_API_KEY=GROQ_API_KEY:latest,TURNSTILE_SECRET=TURNSTILE_SECRET:latest"
+
+      - name: Show deployment URL
+        run: |
+          gcloud run services describe $SERVICE_NAME --region $REGION --format 'value(status.url)'

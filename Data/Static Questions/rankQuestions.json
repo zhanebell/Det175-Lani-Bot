@@ -1,0 +1,739 @@
+{
+  "cadetRanks": [
+    {
+      "llab": 4,
+      "questions": [
+        {
+          "id": "cadet_rank_llab4_1",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank insignia has six horizontal stripes (five thin stripes with one thick stripe on top) for soft rank?",
+          "options": [
+            "Cadet Colonel (C/Col)",
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)"
+          ],
+          "correctAnswer": "Cadet Colonel (C/Col)"
+        },
+        {
+          "id": "cadet_rank_llab4_2",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has four thick parallel bars for hard rank insignia?",
+          "options": [
+            "Cadet Colonel (C/Col)",
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)"
+          ],
+          "correctAnswer": "Cadet Colonel (C/Col)"
+        },
+        {
+          "id": "cadet_rank_llab4_3",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has three thick parallel bars for hard rank insignia?",
+          "options": [
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Colonel (C/Col)",
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)"
+          ],
+          "correctAnswer": "Cadet Lieutenant Colonel (C/Lt Col)"
+        },
+        {
+          "id": "cadet_rank_llab4_4",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has two thick parallel bars and one thin bar in the middle for hard rank?",
+          "options": [
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)",
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet First Lieutenant (C/1st Lt)"
+          ],
+          "correctAnswer": "Cadet Major (C/Maj)"
+        },
+        {
+          "id": "cadet_rank_llab4_5",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has two thick parallel bars for hard rank insignia?",
+          "options": [
+            "Cadet Captain (C/Capt)",
+            "Cadet Major (C/Maj)",
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Lieutenant Colonel (C/Lt Col)"
+          ],
+          "correctAnswer": "Cadet Captain (C/Capt)"
+        },
+        {
+          "id": "cadet_rank_llab4_6",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has one thick parallel bar and one thin bar in the middle for hard rank?",
+          "options": [
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet Captain (C/Capt)",
+            "Cadet Major (C/Maj)"
+          ],
+          "correctAnswer": "Cadet First Lieutenant (C/1st Lt)"
+        },
+        {
+          "id": "cadet_rank_llab4_7",
+          "type": "multiple_choice",
+          "questionType": "name_to_description",
+          "question": "Which rank has one thick parallel bar for hard rank insignia?",
+          "options": [
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Third Class (C/3C)",
+            "Cadet Fourth Class (C/4C)"
+          ],
+          "correctAnswer": "Cadet Second Lieutenant (C/2d Lt)"
+        },
+        {
+          "id": "cadet_rank_llab4_8",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_Col.jpg",
+          "options": [
+            "Cadet Colonel (C/Col)",
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)"
+          ],
+          "correctAnswer": "Cadet Colonel (C/Col)"
+        },
+        {
+          "id": "cadet_rank_llab4_9",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_Lt_Col.jpg",
+          "options": [
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Colonel (C/Col)",
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)"
+          ],
+          "correctAnswer": "Cadet Lieutenant Colonel (C/Lt Col)"
+        },
+        {
+          "id": "cadet_rank_llab4_10",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_Maj.jpg",
+          "options": [
+            "Cadet Major (C/Maj)",
+            "Cadet Captain (C/Capt)",
+            "Cadet Lieutenant Colonel (C/Lt Col)",
+            "Cadet Colonel (C/Col)"
+          ],
+          "correctAnswer": "Cadet Major (C/Maj)"
+        },
+        {
+          "id": "cadet_rank_llab4_11",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_Capt.jpg",
+          "options": [
+            "Cadet Captain (C/Capt)",
+            "Cadet Major (C/Maj)",
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Lieutenant Colonel (C/Lt Col)"
+          ],
+          "correctAnswer": "Cadet Captain (C/Capt)"
+        },
+        {
+          "id": "cadet_rank_llab4_12",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_1st_Lt.jpg",
+          "options": [
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet Captain (C/Capt)",
+            "Cadet Major (C/Maj)"
+          ],
+          "correctAnswer": "Cadet First Lieutenant (C/1st Lt)"
+        },
+        {
+          "id": "cadet_rank_llab4_13",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_2d_Lt.jpg",
+          "options": [
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet First Lieutenant (C/1st Lt)",
+            "Cadet Third Class (C/3C)",
+            "Cadet Fourth Class (C/4C)"
+          ],
+          "correctAnswer": "Cadet Second Lieutenant (C/2d Lt)"
+        },
+        {
+          "id": "cadet_rank_llab4_14",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_3C.jpg",
+          "options": [
+            "Cadet Third Class (C/3C)",
+            "Cadet Fourth Class (C/4C)",
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet First Lieutenant (C/1st Lt)"
+          ],
+          "correctAnswer": "Cadet Third Class (C/3C)"
+        },
+        {
+          "id": "cadet_rank_llab4_15",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this cadet rank:",
+          "image": "/images/ranks/cadet/C_4C.jpg",
+          "options": [
+            "Cadet Fourth Class (C/4C)",
+            "Cadet Third Class (C/3C)",
+            "Cadet Second Lieutenant (C/2d Lt)",
+            "Cadet First Lieutenant (C/1st Lt)"
+          ],
+          "correctAnswer": "Cadet Fourth Class (C/4C)"
+        }
+      ]
+    }
+  ],
+  "officerRanks": [
+    {
+      "llab": 6,
+      "questions": [
+        {
+          "id": "officer_rank_llab6_1",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Second Lieutenant (O-1) in the Air Force?",
+          "options": [
+            "One gold bar",
+            "One silver bar",
+            "Two silver bars",
+            "Gold oak leaf"
+          ],
+          "correctAnswer": "One gold bar"
+        },
+        {
+          "id": "officer_rank_llab6_2",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for First Lieutenant (O-2)?",
+          "options": [
+            "One silver bar",
+            "One gold bar",
+            "Two silver bars",
+            "Gold oak leaf"
+          ],
+          "correctAnswer": "One silver bar"
+        },
+        {
+          "id": "officer_rank_llab6_3",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Captain (O-3)?",
+          "options": [
+            "Two silver bars",
+            "One silver bar",
+            "Gold oak leaf",
+            "Silver oak leaf"
+          ],
+          "correctAnswer": "Two silver bars"
+        },
+        {
+          "id": "officer_rank_llab6_4",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Major (O-4)?",
+          "options": [
+            "Gold oak leaf",
+            "Silver oak leaf",
+            "Two silver bars",
+            "Silver eagle"
+          ],
+          "correctAnswer": "Gold oak leaf"
+        },
+        {
+          "id": "officer_rank_llab6_5",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Lieutenant Colonel (O-5)?",
+          "options": [
+            "Silver oak leaf",
+            "Gold oak leaf",
+            "Silver eagle",
+            "One silver star"
+          ],
+          "correctAnswer": "Silver oak leaf"
+        },
+        {
+          "id": "officer_rank_llab6_6",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Colonel (O-6)?",
+          "options": [
+            "Silver eagle",
+            "Silver oak leaf",
+            "One silver star",
+            "Two silver stars"
+          ],
+          "correctAnswer": "Silver eagle"
+        },
+        {
+          "id": "officer_rank_llab6_7",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Brigadier General (O-7)?",
+          "options": [
+            "One silver star",
+            "Two silver stars",
+            "Three silver stars",
+            "Silver eagle"
+          ],
+          "correctAnswer": "One silver star"
+        },
+        {
+          "id": "officer_rank_llab6_8",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Major General (O-8)?",
+          "options": [
+            "Two silver stars",
+            "One silver star",
+            "Three silver stars",
+            "Four silver stars"
+          ],
+          "correctAnswer": "Two silver stars"
+        },
+        {
+          "id": "officer_rank_llab6_9",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Lieutenant General (O-9)?",
+          "options": [
+            "Three silver stars",
+            "Two silver stars",
+            "Four silver stars",
+            "One silver star"
+          ],
+          "correctAnswer": "Three silver stars"
+        },
+        {
+          "id": "officer_rank_llab6_10",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for General (O-10)?",
+          "options": [
+            "Four silver stars",
+            "Three silver stars",
+            "Five silver stars in a pentagon pattern",
+            "Two silver stars"
+          ],
+          "correctAnswer": "Four silver stars"
+        },
+        {
+          "id": "officer_rank_llab6_11",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O1_2d_Lt.jpg",
+          "options": [
+            "Second Lieutenant (O-1)",
+            "First Lieutenant (O-2)",
+            "Captain (O-3)",
+            "Major (O-4)"
+          ],
+          "correctAnswer": "Second Lieutenant (O-1)"
+        },
+        {
+          "id": "officer_rank_llab6_12",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O2_1st_Lt.jpg",
+          "options": [
+            "First Lieutenant (O-2)",
+            "Second Lieutenant (O-1)",
+            "Captain (O-3)",
+            "Major (O-4)"
+          ],
+          "correctAnswer": "First Lieutenant (O-2)"
+        },
+        {
+          "id": "officer_rank_llab6_13",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O3_Capt.jpg",
+          "options": [
+            "Captain (O-3)",
+            "First Lieutenant (O-2)",
+            "Major (O-4)",
+            "Lieutenant Colonel (O-5)"
+          ],
+          "correctAnswer": "Captain (O-3)"
+        },
+        {
+          "id": "officer_rank_llab6_14",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O4_Maj.jpg",
+          "options": [
+            "Major (O-4)",
+            "Lieutenant Colonel (O-5)",
+            "Captain (O-3)",
+            "Colonel (O-6)"
+          ],
+          "correctAnswer": "Major (O-4)"
+        },
+        {
+          "id": "officer_rank_llab6_15",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O5_Lt_Col.jpg",
+          "options": [
+            "Lieutenant Colonel (O-5)",
+            "Major (O-4)",
+            "Colonel (O-6)",
+            "Brigadier General (O-7)"
+          ],
+          "correctAnswer": "Lieutenant Colonel (O-5)"
+        },
+        {
+          "id": "officer_rank_llab6_16",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O6_Col.jpg",
+          "options": [
+            "Colonel (O-6)",
+            "Lieutenant Colonel (O-5)",
+            "Brigadier General (O-7)",
+            "Major General (O-8)"
+          ],
+          "correctAnswer": "Colonel (O-6)"
+        },
+        {
+          "id": "officer_rank_llab6_17",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O7_Brig_Gen.jpg",
+          "options": [
+            "Brigadier General (O-7)",
+            "Major General (O-8)",
+            "Colonel (O-6)",
+            "Lieutenant General (O-9)"
+          ],
+          "correctAnswer": "Brigadier General (O-7)"
+        },
+        {
+          "id": "officer_rank_llab6_18",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O8_Maj_Gen.jpg",
+          "options": [
+            "Major General (O-8)",
+            "Brigadier General (O-7)",
+            "Lieutenant General (O-9)",
+            "General (O-10)"
+          ],
+          "correctAnswer": "Major General (O-8)"
+        },
+        {
+          "id": "officer_rank_llab6_19",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O9_Lt_Gen.jpg",
+          "options": [
+            "Lieutenant General (O-9)",
+            "Major General (O-8)",
+            "General (O-10)",
+            "Brigadier General (O-7)"
+          ],
+          "correctAnswer": "Lieutenant General (O-9)"
+        },
+        {
+          "id": "officer_rank_llab6_20",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this officer rank:",
+          "image": "/images/ranks/officer/O10_Gen.jpg",
+          "options": [
+            "General (O-10)",
+            "Lieutenant General (O-9)",
+            "Major General (O-8)",
+            "General of the Air Force"
+          ],
+          "correctAnswer": "General (O-10)"
+        }
+      ]
+    }
+  ],
+  "enlistedRanks": [
+    {
+      "llab": 7,
+      "questions": [
+        {
+          "id": "enlisted_rank_llab7_1",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Airman Basic (E-1)?",
+          "options": [
+            "No insignia",
+            "One chevron with a star in the center",
+            "Two chevrons with a star in the center",
+            "Three chevrons with a star in the center"
+          ],
+          "correctAnswer": "No insignia"
+        },
+        {
+          "id": "enlisted_rank_llab7_2",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Airman (E-2)?",
+          "options": [
+            "One chevron with a star in the center",
+            "No insignia",
+            "Two chevrons with a star in the center",
+            "Three chevrons with a star in the center"
+          ],
+          "correctAnswer": "One chevron with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_3",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Airman First Class (E-3)?",
+          "options": [
+            "Two chevrons with a star in the center",
+            "One chevron with a star in the center",
+            "Three chevrons with a star in the center",
+            "Four chevrons with a star in the center"
+          ],
+          "correctAnswer": "Two chevrons with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_4",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Senior Airman (E-4)?",
+          "options": [
+            "Three chevrons with a star in the center",
+            "Two chevrons with a star in the center",
+            "Four chevrons with a star in the center",
+            "Five chevrons with a star in the center"
+          ],
+          "correctAnswer": "Three chevrons with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_5",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Staff Sergeant (E-5)?",
+          "options": [
+            "Four chevrons with a star in the center",
+            "Three chevrons with a star in the center",
+            "Five chevrons with a star in the center",
+            "Six chevrons with a star in the center"
+          ],
+          "correctAnswer": "Four chevrons with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_6",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Technical Sergeant (E-6)?",
+          "options": [
+            "Five chevrons with a star in the center",
+            "Four chevrons with a star in the center",
+            "Six chevrons with a star in the center",
+            "Seven chevrons with a star in the center"
+          ],
+          "correctAnswer": "Five chevrons with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_7",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Master Sergeant (E-7)?",
+          "options": [
+            "Six chevrons (five below and one on top) with a star in the center",
+            "Five chevrons with a star in the center",
+            "Seven chevrons (five below and two on top) with a star in the center",
+            "Eight chevrons with a star in the center"
+          ],
+          "correctAnswer": "Six chevrons (five below and one on top) with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_8",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Senior Master Sergeant (E-8)?",
+          "options": [
+            "Seven chevrons (five below and two on top) with a star in the center",
+            "Six chevrons (five below and one on top) with a star in the center",
+            "Eight chevrons (five below and three on top) with a star in the center",
+            "Five chevrons with a star in the center"
+          ],
+          "correctAnswer": "Seven chevrons (five below and two on top) with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_9",
+          "type": "multiple_choice",
+          "questionType": "name_to_insignia",
+          "question": "What is the insignia for Chief Master Sergeant (E-9)?",
+          "options": [
+            "Eight chevrons (five below and three on top) with a star in the center",
+            "Seven chevrons (five below and two on top) with a star in the center",
+            "Six chevrons (five below and one on top) with a star in the center",
+            "Eight chevrons with a wreath"
+          ],
+          "correctAnswer": "Eight chevrons (five below and three on top) with a star in the center"
+        },
+        {
+          "id": "enlisted_rank_llab7_10",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E1_AB.jpg",
+          "options": [
+            "Airman Basic (E-1)",
+            "Airman (E-2)",
+            "Airman First Class (E-3)",
+            "Senior Airman (E-4)"
+          ],
+          "correctAnswer": "Airman Basic (E-1)"
+        },
+        {
+          "id": "enlisted_rank_llab7_11",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E2_Amn.jpg",
+          "options": [
+            "Airman (E-2)",
+            "Airman Basic (E-1)",
+            "Airman First Class (E-3)",
+            "Senior Airman (E-4)"
+          ],
+          "correctAnswer": "Airman (E-2)"
+        },
+        {
+          "id": "enlisted_rank_llab7_12",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E3_A1C.jpg",
+          "options": [
+            "Airman First Class (E-3)",
+            "Airman (E-2)",
+            "Senior Airman (E-4)",
+            "Staff Sergeant (E-5)"
+          ],
+          "correctAnswer": "Airman First Class (E-3)"
+        },
+        {
+          "id": "enlisted_rank_llab7_13",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E4_SrA.jpg",
+          "options": [
+            "Senior Airman (E-4)",
+            "Airman First Class (E-3)",
+            "Staff Sergeant (E-5)",
+            "Technical Sergeant (E-6)"
+          ],
+          "correctAnswer": "Senior Airman (E-4)"
+        },
+        {
+          "id": "enlisted_rank_llab7_14",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E5_SSgt.jpg",
+          "options": [
+            "Staff Sergeant (E-5)",
+            "Senior Airman (E-4)",
+            "Technical Sergeant (E-6)",
+            "Master Sergeant (E-7)"
+          ],
+          "correctAnswer": "Staff Sergeant (E-5)"
+        },
+        {
+          "id": "enlisted_rank_llab7_15",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E6_TSgt.jpg",
+          "options": [
+            "Technical Sergeant (E-6)",
+            "Staff Sergeant (E-5)",
+            "Master Sergeant (E-7)",
+            "Senior Master Sergeant (E-8)"
+          ],
+          "correctAnswer": "Technical Sergeant (E-6)"
+        },
+        {
+          "id": "enlisted_rank_llab7_16",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E7_MSgt.jpg",
+          "options": [
+            "Master Sergeant (E-7)",
+            "Technical Sergeant (E-6)",
+            "Senior Master Sergeant (E-8)",
+            "Chief Master Sergeant (E-9)"
+          ],
+          "correctAnswer": "Master Sergeant (E-7)"
+        },
+        {
+          "id": "enlisted_rank_llab7_17",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E8_SMSgt.jpg",
+          "options": [
+            "Senior Master Sergeant (E-8)",
+            "Master Sergeant (E-7)",
+            "Chief Master Sergeant (E-9)",
+            "Command Chief Master Sergeant (E-9)"
+          ],
+          "correctAnswer": "Senior Master Sergeant (E-8)"
+        },
+        {
+          "id": "enlisted_rank_llab7_18",
+          "type": "multiple_choice",
+          "questionType": "image_to_name",
+          "question": "Identify this enlisted rank:",
+          "image": "/images/ranks/enlisted/E9_CMSgt.jpg",
+          "options": [
+            "Chief Master Sergeant (E-9)",
+            "Senior Master Sergeant (E-8)",
+            "Command Chief Master Sergeant (E-9)",
+            "Chief Master Sergeant of the Air Force (E-9)"
+          ],
+          "correctAnswer": "Chief Master Sergeant (E-9)"
+        }
+      ]
+    }
+  ]
+}
