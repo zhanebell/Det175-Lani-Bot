@@ -18,7 +18,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY app.py .
 
 # Copy Data directory with LLAB content
-COPY ../Data /app/Data
+COPY Data /app/Data
 
 # Create non-root user for security
 RUN useradd -m -u 1000 appuser && chown -R appuser:appuser /app

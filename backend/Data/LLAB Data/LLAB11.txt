@@ -1,0 +1,34 @@
+SECTION LLAB 11
+United States Air Force (USAF) Major Commands
+
+Air Combat Command (ACC) - Joint Base Langley-Eustis, Virginia
+Air Education and Training Command (AETC) - Joint Base San Antonio-Randolph, Texas
+Air Force Global Strike Command (AFGSC) - Barksdale Air Force Base, Louisiana
+Air Force Materiel Command (AFMC) - Wright-Patterson Air Force Base, Ohio
+Air Force Reserve Command (AFRC) - Robins Air Force Base, Georgia
+Air Force Special Operations Command (AFSOC) - Hurlburt Field, Florida
+Air Mobility Command (AMC) - Scott Air Force Base, Illinois
+Pacific Air Forces (PACAF) - Joint Base Pearl Harbor-Hickam, Hawaii
+United States Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) - Ramstein Air Base, Germany
+
+United States Space Force (USSF) Field Commands
+
+Space Operations Command (SPOC) - Peterson Space Force Base, Colorado
+Space Training and Readiness Command (STARCOM) - Peterson Space Force Base, Colorado
+Space Systems Command (SSC) - Los Angeles Air Force Base, California
+
+LACE Report - Used to report on supplies and necessary equipment
+Liquid – How much water
+Ammo – How much ammo
+Casualty – Any friendly casualties
+Equipment – Functional or damaged equipment
+
+Quote of the Week
+“If it’s endurable, then endure it. Stop complaining...you can endure anything your mind
+can make endurable.”
+- Marcus Aurelius
+
+Aircraft: MQ-9 Reaper and RQ-4 Global Hawk
+
+MQ-9 Reaper - Role: Unmanned combat aerial vehicle
+RQ-4 Global Hawk - Role: Unmanned surveillance & recon
