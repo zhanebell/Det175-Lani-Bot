@@ -26,12 +26,15 @@ app = Flask(__name__)
 # Configuration from environment
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_BASE_URL = "https://api.groq.com/openai/v1"
-ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")
+ALLOWED_ORIGINS = [origin.strip() for origin in os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")]
 RATE_LIMIT_REQUESTS = int(os.getenv("RATE_LIMIT_REQUESTS", "20"))
 RATE_LIMIT_WINDOW = int(os.getenv("RATE_LIMIT_WINDOW", "300"))  # 5 minutes
 TURNSTILE_SECRET = os.getenv("TURNSTILE_SECRET", "")
 MAX_CONTEXT_TOKENS = 16000  # Target context limit
 MAX_OUTPUT_TOKENS = 1024
+
+# Log configuration for debugging
+logger.info(f"CORS enabled for origins: {ALLOWED_ORIGINS}")
 
 # Enable CORS with strict origin checking
 CORS(app, resources={
