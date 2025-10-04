@@ -29,7 +29,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ llabNumbers, quizMode }) 
   useEffect(() => {
     const greeting: Message = {
       role: 'assistant',
-      content: `Welcome, Cadet! I'm Lani Bot, your study assistant. I'm ready to help you prepare for ${llabNumbers.map(n => `LLAB ${n}`).join(', ')}.\n\nAre you ready to begin? Type "yes" or "ready" to start your first question!`
+      content: `Welcome, Cadet! I'm Lani Bot, your study assistant. I'm ready to help you prepare for ${llabNumbers.map(n => `LLAB ${n}`).join(', ')}.\n\nSay hello to get started!`
     };
     setMessages([greeting]);
   }, [llabNumbers]);

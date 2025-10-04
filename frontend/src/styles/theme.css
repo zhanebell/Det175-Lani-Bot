@@ -165,3 +165,20 @@ input, textarea {
 .font-bold {
   font-weight: bold;
 }
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+  .header-subtitle {
+    display: none !important;
+  }
+  
+  /* Adjust header padding on mobile */
+  header {
+    padding: var(--spacing-sm) var(--spacing-md) !important;
+  }
+  
+  /* Make title smaller on mobile */
+  header h1 {
+    font-size: 1.25rem !important;
+  }
+}

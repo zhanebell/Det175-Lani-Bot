@@ -54,7 +54,12 @@ const App: React.FC = () => {
           <h1 style={{ color: 'var(--text-light)', fontSize: '1.5rem', fontWeight: 'bold' }}>
             🪽 Lani Bot
           </h1>
-          <span style={{ color: 'var(--silver)', fontSize: '0.9rem' }}>
+          <span 
+            className="header-subtitle"
+            style={{ 
+              color: 'var(--silver)', 
+              fontSize: '0.9rem'
+            }}>
             Detachment 175 Study Assistant
           </span>
         </div>
