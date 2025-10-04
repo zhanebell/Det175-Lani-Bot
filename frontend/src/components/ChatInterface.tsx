@@ -82,10 +82,10 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ llabNumbers, quizMode }) 
           setIsLoading(false);
           setIsSending(false);
         },
-        (error) => {
+        () => {
           setMessages(prev => {
             const updated = [...prev];
-            updated[updated.length - 1].content = `⚠️ Error: ${error}`;
+            updated[updated.length - 1].content = `⚠️ High user traffic detected. Please try again in a couple seconds.`;
             return updated;
           });
           setIsLoading(false);
