@@ -1,14 +1,16 @@
 SECTION LLAB 4  
 
-Cadet Wing Staff  
+Cadet Wing Staff (Current)  
 
-Cadet Wing Commander: Cadet Colonel Shawn G. Gatchell
-Cadet Wing Deputy Commander: Cadet Colonel Kobie J. Moody
-Cadet Wing Inspector General: Cadet Lieutenant Colonel Malia K. Silva
-A-Staff Chief: Cadet Lieutenant Colonel Jerry L. Willis
-Director of A1: Cadet Major Alexander Moshir
-Director of A3/5: Cadet Major Hannah G. Dyer
-Director of A4/6: Cadet Major Andrew Lin
+Cadet Wing Commander: Cadet Colonel Kobie J. Moody  
+Cadet Wing Deputy Commander: Cadet Colonel Zian J. Benavente  
+Cadet Wing Inspector General: Cadet Lieutenant Colonel Jacob I. Haley  
+Training Squadron Commander: Cadet Lieutenant Colonel Noah A. Winslow  
+A-Staff Chief: Cadet Lieutenant Colonel Keoni I. Mabini  
+Director of A1: Cadet Major Daniel J. Sellinger  
+Director of A3: Cadet Major Randy P. Taisacan  
+Director of A4: Cadet Major Rhandy M. Yoon  
+Director of A6: Cadet Major Andrew Lin
 
 Cadet Rank Structure
 POC CADETS BELOW:

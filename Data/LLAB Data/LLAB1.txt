@@ -1,25 +1,27 @@
 SECTION LLAB 1
 Detachment 175 Staff  
 
-Detachment Commander: Lieutenant Colonel Timothy D. Anderson  
+DetacNote: Using Rank/Last Name is most professional.  
+Example: "Lieutenant Colonel Anderson, may I ask a question?"ent Commander: Lieutenant Colonel Timothy D. Anderson  
 Professor of Aerospace Studies  
 
-Operations Officer: Major Spencer T. Jacobson  
+Operations Officer: Major Jennifer M. Nuanes  
 Assistant Professor of Aerospace Studies  
 
-Education Officer: Major Jennifer M. Nuanes  
+Education Officer: Captain Nicholas P. Pyle  
 Assistant Professor of Aerospace Studies  
 
-Recruiting Officer: Second Lieutenant Bret T. Lehna  
-Recruiting Officer  
-
-Personnel NCOIC: Technical Sergeant Ryan A. Muller  
+Training Instructor: Technical Sergeant Ryan A. Muller  
 NCOIC, AFROTC Detachment 175  
 
-Administration NCOIC: Staff Sergeant Gary M. Thibeaux-Moore  
+Administration NCOIC: Technical Sergeant Maxwell S. Wright  
 NCOIC, AFROTC Detachment 175  
 
 Executive Assistant: Ms. Kara A. Otineru
+
+Detachment Contact  
+Email: afrotc@hawaii.edu  
+Main Office: (808) 956-7734
 
 Air Force Core Values: 
 Integrity First  
